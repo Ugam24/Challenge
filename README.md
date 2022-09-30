@@ -4,7 +4,7 @@ Need Nmap v7.92 or later in system. After install Nmap.
 #### For Ubuntu/Linux/Mac OS
 
 ```
-git clone 
+git clone https://github.com/Ugam24/Challange.git
 cd Challange
 python3 -m venv env
 source env/bin/activate
@@ -14,7 +14,7 @@ python main.py --ip <target_machine_ip>
 #### For Windows
 
 ```
-git clone 
+git clone https://github.com/Ugam24/Challange.git
 cd Challange
 python3 -m venv env
 env\Scripts\activate
